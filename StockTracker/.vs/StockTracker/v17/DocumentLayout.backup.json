@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tati_\\source\\repos\\StockTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{278F9174-38D9-49CD-9CF0-5F3391DE2B09}|StockTracker\\StockTracker.csproj|c:\\users\\tati_\\source\\repos\\stocktracker\\stocktracker\\frmsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{278F9174-38D9-49CD-9CF0-5F3391DE2B09}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\frmsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278F9174-38D9-49CD-9CF0-5F3391DE2B09}|StockTracker\\StockTracker.csproj|c:\\users\\tati_\\source\\repos\\stocktracker\\stocktracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278F9174-38D9-49CD-9CF0-5F3391DE2B09}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278F9174-38D9-49CD-9CF0-5F3391DE2B09}|StockTracker\\StockTracker.csproj|c:\\users\\tati_\\source\\repos\\stocktracker\\stocktracker\\frmsatis.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278F9174-38D9-49CD-9CF0-5F3391DE2B09}|StockTracker\\StockTracker.csproj|solutionrelative:stocktracker\\frmsatis.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmSatis.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tati_\\source\\repos\\StockTracker\\StockTracker\\FrmSatis.cs",
+              "RelativeDocumentMoniker": "StockTracker\\FrmSatis.cs",
+              "ToolTip": "C:\\Users\\tati_\\source\\repos\\StockTracker\\StockTracker\\FrmSatis.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StockTracker\\FrmSatis.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:37:42.196Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmSatis.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tati_\\source\\repos\\StockTracker\\StockTracker\\FrmSatis.Designer.cs",
+              "RelativeDocumentMoniker": "StockTracker\\FrmSatis.Designer.cs",
+              "ToolTip": "C:\\Users\\tati_\\source\\repos\\StockTracker\\StockTracker\\FrmSatis.Designer.cs",
+              "RelativeToolTip": "StockTracker\\FrmSatis.Designer.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAANIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:32:52.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tati_\\source\\repos\\StockTracker\\StockTracker\\Program.cs",
+              "RelativeDocumentMoniker": "StockTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\tati_\\source\\repos\\StockTracker\\StockTracker\\Program.cs",
+              "RelativeToolTip": "StockTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:31:46.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

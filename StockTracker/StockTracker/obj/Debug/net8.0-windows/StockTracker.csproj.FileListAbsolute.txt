@@ -1,0 +1,16 @@
+C:\Users\tati_\source\repos\StockTracker\StockTracker\obj\Debug\net8.0-windows\StockTracker.FrmSatis.resources
+C:\Users\tati_\source\repos\StockTracker\StockTracker\obj\Debug\net8.0-windows\StockTracker.csproj.GenerateResource.cache
+C:\Users\tati_\source\repos\StockTracker\StockTracker\obj\Debug\net8.0-windows\StockTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tati_\source\repos\StockTracker\StockTracker\obj\Debug\net8.0-windows\StockTracker.AssemblyInfoInputs.cache
+C:\Users\tati_\source\repos\StockTracker\StockTracker\obj\Debug\net8.0-windows\StockTracker.AssemblyInfo.cs
+C:\Users\tati_\source\repos\StockTracker\StockTracker\obj\Debug\net8.0-windows\StockTracker.csproj.CoreCompileInputs.cache
+C:\Users\tati_\source\repos\StockTracker\StockTracker\bin\Debug\net8.0-windows\StockTracker.exe
+C:\Users\tati_\source\repos\StockTracker\StockTracker\bin\Debug\net8.0-windows\StockTracker.deps.json
+C:\Users\tati_\source\repos\StockTracker\StockTracker\bin\Debug\net8.0-windows\StockTracker.runtimeconfig.json
+C:\Users\tati_\source\repos\StockTracker\StockTracker\bin\Debug\net8.0-windows\StockTracker.dll
+C:\Users\tati_\source\repos\StockTracker\StockTracker\bin\Debug\net8.0-windows\StockTracker.pdb
+C:\Users\tati_\source\repos\StockTracker\StockTracker\obj\Debug\net8.0-windows\StockTracker.dll
+C:\Users\tati_\source\repos\StockTracker\StockTracker\obj\Debug\net8.0-windows\refint\StockTracker.dll
+C:\Users\tati_\source\repos\StockTracker\StockTracker\obj\Debug\net8.0-windows\StockTracker.pdb
+C:\Users\tati_\source\repos\StockTracker\StockTracker\obj\Debug\net8.0-windows\StockTracker.genruntimeconfig.cache
+C:\Users\tati_\source\repos\StockTracker\StockTracker\obj\Debug\net8.0-windows\ref\StockTracker.dll
